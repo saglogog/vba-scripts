@@ -1,2 +1,2 @@
 # vba-scripts
-useful visual basic scripts 
+useful (to me) visual basic scripts 
